@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/chat-app-css-WcQ1UHlD47
+- Live Site URL: https://baharkhezri.github.io/chat-app-css-illustration-master/
 ## My process
 
 ### Built with
